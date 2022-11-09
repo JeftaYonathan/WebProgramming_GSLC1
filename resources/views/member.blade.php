@@ -1,6 +1,6 @@
-@extends('key')
+@extends('navbar')
 
-@section('text')
+@section('content')
 
 <p>Student Organization Members List</p>
 	
